@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    {% include "base/global/partials/_head.html" %}
+</head>
+<body>
+
+    {% include "base/global/partials/_header.html" %}
+    {% include "base/global/partials/_message.html"%}
+
+
+
+
+    <main class="content">
+        {% block 'body' %}{% endblock 'body' %}
+
+        {% include "base/global/partials/_pagination.html" %}
+    </main>
+</body>
+</html>
