@@ -1,14 +1,14 @@
-# Projeto Agenda
+# Agenda Project 
 
-Aplicação de agenda desenvolvida com Django para gerenciar contatos.
+Application of calendar developed with Django to manage contacts.
 
-## Funcionalidades
+## Functionalities
 
-- Adicionar, editar e excluir contatos.
-- Buscar contatos por nome ou email.
-- Interface amigável e responsiva.
+- Add, edit and delete contacts.
+- Search contacts by name
+- Friendly and responsive interface.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - **Python 3.13**
 - **Django**
